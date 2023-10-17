@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1055198838316",
+    "project_id": "edufocus-feac5",
+    "storage_bucket": "edufocus-feac5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055198838316:android:79ee7549f8fbeabb8f5b89",
+        "android_client_info": {
+          "package_name": "com.newapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLnyAMRAUMnkdXUs3HKJD5zLulFH3jjBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
